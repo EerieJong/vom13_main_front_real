@@ -10,4 +10,11 @@
 1. 슬라이더 pagenation 디자인 완료
 2. best art section 제목 완료
 3. best art 사진 슬라이더 완료
-4. best art 사진 내부 클릭 요소 작성 중
+4. best art 사진 내부 클릭 요소 작업중
+
+ - 04/26
+ 1. Header hide effect complete
+ 2. best art hover effect complete
+ 3. best art aos effect complete
+ 4. best art section complete
+ 5. md art section tab ready
