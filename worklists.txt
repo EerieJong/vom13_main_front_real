@@ -18,3 +18,8 @@
  3. best art aos effect complete
  4. best art section complete
  5. md art section tab ready
+
+ - 04/27
+ 1. md pick tab function complete
+ 2. header scroll <> offset control
+ 3. tap function error hyeji complete
